@@ -1,0 +1,11 @@
+.user {
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-color: blue;
+  border-radius: 5px;
+  box-shadow: 1px 1px 4px grey;
+  margin: 8px auto;
+}
